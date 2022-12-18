@@ -33,4 +33,5 @@
 
 # Build dir
 zal/build/*
-zal/.vscode/*
+./.vscode/*
+./build/*
